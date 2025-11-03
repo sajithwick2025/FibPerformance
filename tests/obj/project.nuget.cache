@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "paSTnVjoh+0=",
+  "dgSpecHash": "JdsJbahEVFM=",
   "success": true,
-  "projectFilePath": "C:\\C#_Sample_Tests\\MyProject\\tests\\MyProject.Tests.csproj",
+  "projectFilePath": "C:\\C#_Sample_Tests\\FibPerformance\\tests\\MyProject.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

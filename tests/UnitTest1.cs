@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MyProject.Tests
+namespace FibPerformance.Tests
 {
     [TestClass]
     public class UnitTest1
