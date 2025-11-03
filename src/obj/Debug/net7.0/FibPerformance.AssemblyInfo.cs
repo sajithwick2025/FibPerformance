@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FibPerformance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+351e03c2c8f13748f7ae028d89a2b61629ae38ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4686919650df3bc12ad8a71a46c6caaf6bc08262")]
 [assembly: System.Reflection.AssemblyProductAttribute("FibPerformance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FibPerformance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
